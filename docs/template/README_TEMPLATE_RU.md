@@ -12,9 +12,6 @@
 
 <div align="center" style="margin-top: -10px">
     <div>
-        <a href="https://discord.gg/mBqXgxTM6v">
-            <img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/discord.svg"/>
-        </a>&nbsp;&nbsp;
         <a href="https://join.skype.com/invite/mXfIgnyt02Nx">
             <img alt="skype-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/skype.svg"/>
         </a>&nbsp;&nbsp;
@@ -27,7 +24,12 @@
         <a href="https://github.com/Bangerok">
             <img alt="github-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/github.svg"/>
         </a>
-    </div>
+    </div><br />
+    <div>
+        <a href="https://discord.com/users/238233865129295875">
+            <img alt="discord-profile" src="https://lanyard-profile-readme.vercel.app/api/238233865129295875"/>
+        </a>
+    </div><br />
 </div>
 
 <div align="center">
@@ -194,7 +196,7 @@
 </details>
 
 <details style="margin-left: 40px">	
-  <summary><b>📋 Мое рабочее окружение</b></summary>
+  <summary><b>📜 Мое рабочее окружение</b></summary>
 
   <br />
   <ul>

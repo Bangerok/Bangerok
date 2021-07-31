@@ -12,9 +12,6 @@
 
 <div align="center" style="margin-top: -10px">
     <div>
-        <a href="https://discord.gg/mBqXgxTM6v">
-            <img alt="discord-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/discord.svg"/>
-        </a>&nbsp;&nbsp;
         <a href="https://join.skype.com/invite/mXfIgnyt02Nx">
             <img alt="skype-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/skype.svg"/>
         </a>&nbsp;&nbsp;
@@ -27,7 +24,12 @@
         <a href="https://github.com/Bangerok">
             <img alt="github-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/github.svg"/>
         </a>
-    </div>
+    </div><br />
+    <div>
+        <a href="https://discord.com/users/238233865129295875">
+            <img alt="discord-profile" src="https://lanyard-profile-readme.vercel.app/api/238233865129295875"/>
+        </a>
+    </div><br />
 </div>
 
 <div align="center">
@@ -194,7 +196,7 @@
 </details>
 
 <details style="margin-left: 40px">	
-  <summary><b>📋 Мое рабочее окружение</b></summary>
+  <summary><b>📜 Мое рабочее окружение</b></summary>
 
   <br />
   <ul>
@@ -218,23 +220,20 @@
 
 ### 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/Bangerok)**
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#a566b14](https://github.com/Bangerok/Bangerok/commit/a566b14) 1.8.1. Adding more stats: achievements.
-  * *On 01/08/2021, 00:11*
+* 🌟 Starred [Phineas/lanyard](https://github.com/Phineas/lanyard)
+  * *On 01/08/2021, 00:59*
 * ➡️ Pushed 2 commits in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#12fb72a](https://github.com/Bangerok/Bangerok/commit/12fb72a) Merge remote-tracking branch &#39;origin/master&#39;
-  * [#4f7f9e0](https://github.com/Bangerok/Bangerok/commit/4f7f9e0) 1.8.0. Adding more stats: achievements.
-  * *On 31/07/2021, 23:59*
-* ➡️ Pushed 2 commits in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#7e718ba](https://github.com/Bangerok/Bangerok/commit/7e718ba) 1.7.0. Adding more stats with markdown template: RSS, recent activity and commits calendar.
-  * [#75dea77](https://github.com/Bangerok/Bangerok/commit/75dea77) 1.6.0. Adding more stats: Achievements, Recent activity and other.
-  * *On 31/07/2021, 23:47*
+  * [#3b2f7c9](https://github.com/Bangerok/Bangerok/commit/3b2f7c9) 1.9.0. Adding discord info.
+  * [#0d6db0e](https://github.com/Bangerok/Bangerok/commit/0d6db0e) 1.8.0. Adding more stats: achievements.
+  * *On 01/08/2021, 00:50*
 * ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#3734b7c](https://github.com/Bangerok/Bangerok/commit/3734b7c) 1.7.11. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 23:08*
+  * [#4a7a816](https://github.com/Bangerok/Bangerok/commit/4a7a816) 1.9.1. Adding discord info.
+  * *On 01/08/2021, 00:48*
 * ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#dd9a22f](https://github.com/Bangerok/Bangerok/commit/dd9a22f) 1.7.10. Adding more stats with markdown template: RSS, Recent activity and Contributors 3D calendar.
-  * *On 31/07/2021, 22:55*
+  * [#b062612](https://github.com/Bangerok/Bangerok/commit/b062612) 1.9.0. Adding discord info.
+  * *On 01/08/2021, 00:41*
+* 🍽️ Forked [MirayXS/MirayXS](https://github.com/MirayXS/MirayXS) to [Bangerok/MirayXS](https://github.com/Bangerok/MirayXS)
+  * *On 01/08/2021, 00:35*
 
 
 ### 📆 Календарь коммитов за год
