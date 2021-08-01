@@ -1,89 +1,94 @@
 <!--suppress HtmlDeprecatedAttribute -->
-<h1 align="center">
+<div align="center">
+  <h1>
     Привет, я <a href="https://github.com/Bangerok">Влад</a>!
     <img alt="Hi!" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/hand.gif" width="25px">
-</h1>
+  </h1>
 
-<div align="center">
-    <a href="https://github.com/Bangerok/Bangerok/blob/master/docs/README.md">
-        <img alt="english-version" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/languages/english.png"/>
+  <a href="https://github.com/Bangerok/Bangerok/blob/master/docs/README.md">
+    <img alt="english-version" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/languages/english.png"/>
+  </a><br />
+
+  <div>
+    <a href="https://join.skype.com/invite/mXfIgnyt02Nx">
+        <img alt="skype-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/skype.svg"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://t.me/Bangerok">
+        <img alt="telegram-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/telegram.svg"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://vk.com/vladislav_kuznetsov">
+        <img alt="vk-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/vk.svg"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/Bangerok">
+        <img alt="github-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/github.svg"/>
     </a>
-</div>
+  </div><br />
 
-<div align="center" style="margin-top: -10px">
-    <div>
-        <a href="https://join.skype.com/invite/mXfIgnyt02Nx">
-            <img alt="skype-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/skype.svg"/>
-        </a>&nbsp;&nbsp;
-        <a href="https://t.me/Bangerok">
-            <img alt="telegram-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/telegram.svg"/>
-        </a>&nbsp;&nbsp;
-        <a href="https://vk.com/vladislav_kuznetsov">
-            <img alt="vk-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/vk.svg"/>
-        </a>&nbsp;&nbsp;
-        <a href="https://github.com/Bangerok">
-            <img alt="github-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/contacts/github.svg"/>
-        </a>
-    </div><br />
-    <div>
-        <a href="https://discord.com/users/238233865129295875">
-            <img alt="discord-profile" src="https://lanyard-profile-readme.vercel.app/api/238233865129295875"/>
-        </a>
-    </div><br />
-</div>
+  <div>
+      <a href="https://discord.com/users/238233865129295875">
+          <img width="361" alt="discord-profile" src="https://lanyard-profile-readme.vercel.app/api/238233865129295875"/>
+      </a>
+  </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="sonar-cloud-bugs" /><br />
-    <img src="https://wakatime.com/badge/github/Bangerok/Bangerok.svg" height="25" alt="time-with-code" />
-</div>
+  <img width="361" alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" /><br />
 
-<div align="center">
+  <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=Bangerok&color=1A4730&label=PROFILE+VIEWS" height="25" alt="profile-views" />
+      <img src="https://wakatime.com/badge/github/Bangerok/Bangerok.svg" height="25" alt="time-with-code" />
+  </div>
+
   <h3>
     ⚡ Владислав Кузнецов | 💻 Backend [JAVA] Разработчик | Россия, Киров 🏰 
   </h3>
 
-  <img alt="streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=Bangerok&hide_border=true&theme=dark" />
+  <i>"Я не доверяю людям, которые пишут SQL-запросы в верхнем регистре"</i>
 </div>
 
-<div align="center" style="margin-bottom: -10px">
-    <i>"Я не доверяю людям, которые пишут SQL-запросы в верхнем регистре"</i>
-</div>
-
-### Рад видеть тебя здесь! &nbsp;
+## Рад видеть тебя здесь!
 Я очень люблю программировать. Это одно из немногих занятий, которое дает мне умиротворение и способность
 структурировать и систематизировать многие аспекты моей жизни, чтобы не потеряться в ней. Не с точки зрения кода,
 а самого подхода, который оно представляет.
 
-<img style="margin-top: 12px; margin-left: 25px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
+<img style="margin-top: 27px; margin-left: 25px; margin-bottom: 12px" align="right" alt="profile-gif" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/profile.gif" />
 
-### ⭐️Говоря о личном:
-- 🛠 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д.
-- 🚀 &nbsp; Я сейчас изучаю Backend разработку.
-- 🚀 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**.
+## ⭐️ Говоря о личном
+- 📔 &nbsp; Я сейчас работаю с Java, Spring Boot, микросервисами и т.д;
+- 🔌 &nbsp; Я сейчас изучаю Backend разработку;
+- 💡 &nbsp; Ты можешь посмотреть мое резюме **[здесь](https://raw.githubusercontent.com/Bangerok/Bangerok/master/docs/resume/%5BRUS%5D%20Kuznetsov%20V.A.%20Java%20Developer.pdf)**;
 - 💬 &nbsp; Спроси меня о чем угодно **[здесь](https://github.com/Bangerok/Bangerok/issues/1)**! Я буду рад помочь.
 
-### 🌌 Мои хобби (не все):
-- 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки.
-- 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д.
+## 🌌 Мои хобби
+- 💻 &nbsp; Я люблю изучать новые технологии и создавать крутые штуки;
+- 📰 &nbsp; По возможности читаю технические блоги, статьи и т.д;
+- 🏐 &nbsp; Волейбол;
+- 📚 &nbsp; Чтение книг.
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
-    <img alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
-</a><br />
+## 🎧 Spotify
+<div>
+    <div>
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&redirect=true">
+            <img width="500" alt="spotify-gif" src="https://spotify-github-profile.vercel.app/api/view?uid=knao876cqdze6lu78as93r3gz&cover_image=true&theme=novatorem" />
+        </a>
+    </div>
+    <div style="margin-left: 16px">
+        <a href="https://open.spotify.com/user/knao876cqdze6lu78as93r3gz">
+            <img alt="spotify-history" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=453&count=2" />
+        </a>
+    </div>
+</div>
 
-<a href="https://open.spotify.com/user/knao876cqdze6lu78as93r3gz">
-    <img alt="spotify-history" style="margin-left: 10px" src="https://spotify-recently-played-readme.vercel.app/api?user=knao876cqdze6lu78as93r3gz&width=300&count=3" />
-</a><br />
-
-### 🏆 Achievements
+## 🏆 Достижения
 <img alt="achievements-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/achievements.svg"/>
 
-### 🔨 Языки программирования & фреймворки:
+## 🔨 Языки программирования & фреймворки
 <a href="https://adoptopenjdk.net/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/java.svg" alt="java" height="48px"/></a> &nbsp; &nbsp;
 <a href="http://hibernate.org/orm/documentation/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/hibernate.svg" alt="hibernate" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://spring.io/guides/gs/spring-boot/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/spring.svg" alt="spring" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://vuejs.org/v2/guide/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/vuejs.svg" alt="vue" height="48px"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://kafka.apache.org/quickstart" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/kafka.svg" alt="kafka" height="48px"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.mongodb.com/basics/get-started" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/technologies/mongodb.svg" alt="mongo-db" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 
-### 🧰 Инструменты:
+## 🧰 Инструменты
 <a href="https://www.microsoft.com/ru-ru/software-download/windows10" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/windows-10.svg" alt="windows" height="48px"/></a>  &nbsp; &nbsp;
 <a href="https://www.postgresqltutorial.com/postgresql-getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postgres.svg" alt="postgres" height="48px"/></a>  &nbsp;
 <a href="https://maven.apache.org/guides/getting-started/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/maven.svg" alt="maven" height="48px"/></a> &nbsp;
@@ -92,7 +97,7 @@
 <a href="https://www.postman.com/downloads/" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/postman.svg" alt="postman" height="48px"/></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows" target="_blank"><img src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/tools/jetbrains.svg" alt="jetbrains" height="48px"/></a>
 
-### ⚙️ Еще про разработку:
+## ⚙️ Еще про разработку
 <details style="margin-left: 40px">
   <summary><b>💼 Мой рабочий опыт</b></summary>
 
@@ -170,18 +175,6 @@
     <img alt="ninja-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=Ninja&theme=dark&hide_border=true" />
   </a>
 
-  <a href="https://github.com/NinjaEnterprise/NinjaClient">
-    <img alt="ninja-client-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaClient&theme=dark&hide_border=true" />
-  </a><br />
-
-  <a href="https://github.com/NinjaEnterprise/NinjaConfiguration">
-    <img alt="ninja-configuration-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaConfiguration&theme=dark&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/NinjaEnterprise/NinjaTemplate">
-    <img alt="ninja-template-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NinjaEnterprise&repo=NinjaTemplate&theme=dark&hide_border=true" />
-  </a><br />
-
   <a href="https://github.com/FunProjectsForSoul/FunTemplate">
     <img alt="ninja-template-repo" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FunProjectsForSoul&repo=FunTemplate&theme=dark&hide_border=true" />
   </a>
@@ -218,11 +211,11 @@
   </i>
 </details>
 
-### 📋 Недавняя активность
+## 📋 Недавняя активность
 <%- await include(`partials/activity.ejs`) %>
 
-### 📆 Календарь коммитов за год
+## 📆 Календарь коммитов за год
 <img alt="calendar-url" src="https://raw.githubusercontent.com/Bangerok/Bangerok/master/assets/metrics/iso-calendar.svg"/>
 
-### 📰 Новостная лента
+## 📰 Новостная лента
 <%- await include(`partials/rss.ejs`) %>
