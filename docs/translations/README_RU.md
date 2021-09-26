@@ -214,6 +214,12 @@
 ## 📋 Недавняя активность
 **[📰 Recent activity](https://github.com/Bangerok)**
 * ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#b7af567](https://github.com/Bangerok/Bangerok/commit/b7af567) 2.0.0. General refactoring and cleaning.
+  * *On 25/09/2021, 13:01*
+* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
+  * [#de787e9](https://github.com/Bangerok/Bangerok/commit/de787e9) For squash commit.
+  * *On 25/09/2021, 13:01*
+* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
   * [#54ad10b](https://github.com/Bangerok/Bangerok/commit/54ad10b) 2.0.0. General refactoring and cleaning.
   * *On 24/09/2021, 09:23*
 * ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
@@ -222,12 +228,6 @@
 * ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
   * [#594915e](https://github.com/Bangerok/Bangerok/commit/594915e) 2.0.0. General refactoring and cleaning.
   * *On 23/09/2021, 08:45*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#4e1909c](https://github.com/Bangerok/Bangerok/commit/4e1909c) For squash commit.
-  * *On 23/09/2021, 08:45*
-* ➡️ Pushed 1 commit in [Bangerok/Bangerok](https://github.com/Bangerok/Bangerok) on branch `master`
-  * [#eb346fb](https://github.com/Bangerok/Bangerok/commit/eb346fb) 2.0.0. General refactoring and cleaning.
-  * *On 22/09/2021, 00:31*
 
 
 ## 📆 Календарь коммитов за год
@@ -235,6 +235,8 @@
 
 ## 📰 Новостная лента
 **[🗼 Rss feed from Baeldung](https://www.baeldung.com)**
+* [Consistency Levels in Cassandra](https://feeds.feedblitz.com/~/667526688/0/baeldung~Consistency-Levels-in-Cassandra)
+  * *Published on 25/09/2021*
 * [Java Weekly, Issue 404](https://feeds.feedblitz.com/~/667428752/0/baeldung~Java-Weekly-Issue)
   * *Published on 23/09/2021*
 * [Streaming with gRPC in Java](https://feeds.feedblitz.com/~/667367960/0/baeldung~Streaming-with-gRPC-in-Java)
@@ -242,6 +244,4 @@
 * [New Features in Java 16](https://feeds.feedblitz.com/~/667286038/0/baeldung~New-Features-in-Java)
   * *Published on 22/09/2021*
 * [Undo and Revert Commits in Git](https://feeds.feedblitz.com/~/667286040/0/baeldung~Undo-and-Revert-Commits-in-Git)
-  * *Published on 22/09/2021*
-* [Java Sound API – Capturing Microphone](https://feeds.feedblitz.com/~/667286042/0/baeldung~Java-Sound-API-Capturing-Microphone)
   * *Published on 22/09/2021*
